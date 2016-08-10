@@ -36,7 +36,7 @@
 [UML團隊開發流程與管理](http://www.books.com.tw/products/0010513353)
 
  * [活動圖](Docs/ActivityDiagram.md)
- * [使用個案圖](Docs/UserCaseDiagram.md)
+ * [使用個案圖](Docs/UseCaseDiagram.md)
  * [類別圖](Docs/ClassDiagram.md)
 
 
