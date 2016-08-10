@@ -21,7 +21,7 @@
 
 * 活動圖（Activity diagram）
 * 狀態圖（State Machine diagram）
-* 使用個案圖（Use Case Diagram）
+* 使用案例圖（Use Case Diagram）
 
 ## 交互性圖形（Interaction diagrams）
 屬於行為圖形的子集合，強調系統模型中的資料流程：
@@ -35,8 +35,8 @@
 ## 範例介紹
 [UML團隊開發流程與管理](http://www.books.com.tw/products/0010513353)
 
- * [活動圖](Docs/ActivityDiagram.md)
- * [使用個案圖](Docs/UseCaseDiagram.md)
- * [類別圖](Docs/ClassDiagram.md)
+ * [活動圖](ActivityDiagram.md)
+ * [使用案例圖](UseCaseDiagram.md)
+ * [類別圖](ClassDiagram.md)
 
 
