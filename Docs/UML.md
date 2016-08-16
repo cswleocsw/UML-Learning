@@ -28,7 +28,7 @@
 
 * 通信圖（Communication diagram）
 * 交互概述圖（Interaction overview diagram，UML 2.0）
-* 時序圖（Sequence diagram，UML 2.0）
+* 循序圖（Sequence diagram，UML 2.0）
 * 時間圖（Timing Diagram，UML 2.0）
 
 
@@ -38,5 +38,6 @@
  * [活動圖](ActivityDiagram.md)
  * [使用案例圖](UseCaseDiagram.md)
  * [類別圖](ClassDiagram.md)
-
+ * [循序圖](SequenceDiagram.md)
+ * [溝通圖](CommunicationDiagram.md)
 
